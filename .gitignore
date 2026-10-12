@@ -1,0 +1,7 @@
+
+__MACOSX/
+.DS_Store
+.ipynb_checkpoints/
+
+Kamilimu_Case_Study_Dataset/Sierra Leone/sierra leone data.csv
+Kamilimu_Case_Study_Dataset/Sierra Leone/labeled_power_source_data.csv
